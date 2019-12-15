@@ -1,0 +1,11 @@
+#app {
+    background: var(--app-bg-color);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app > canvas {
+   outline: 5px solid var(--border-color);
+}
