@@ -1,8 +1,6 @@
 {
-  "name": "core-defence",
+  "name": "snowball",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.config.js",
     "prod": "webpack --config webpack.config.js"
