@@ -1,6 +1,6 @@
 # Snowfall game
 
-live demo: 
+live demo: https://snowfall.raymiruone.now.sh/
 
 Simple WebGL game using pixi.js
 
