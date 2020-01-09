@@ -1,5 +1,5 @@
 {
-  "name": "snowball",
+  "name": "snowfall",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.config.js",
